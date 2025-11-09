@@ -17,7 +17,6 @@ This repository is dedicated to learning **C programming** from scratch to advan
 ## 🗂️ Repository Structure
 
 c-development-path/
-├─ README.md
 ├─ basics/ # Basic concepts like hello world, variables, and data types
 ├─ control_flow/ # if-else statements, loops, switch-case
 ├─ functions/ # Function basics, recursion, scope
