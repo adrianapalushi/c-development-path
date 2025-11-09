@@ -1,6 +1,6 @@
-# C Development Path
+Welcome to **C Development Path**!
 
-Welcome to **C Development Path**! This repository is dedicated to learning **C programming** from scratch to advanced concepts, with hands-on examples and mini-projects.
+This repository is dedicated to learning **C programming** from scratch to advanced concepts, with hands-on examples and mini-projects.
 
 ---
 
